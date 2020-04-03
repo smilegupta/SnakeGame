@@ -1,4 +1,4 @@
-# SnakeGame
+# SnakeGame :snake:
 
 In this repo, i will be going to create the snake game we used to play on NOKIA mobile phones.
 
